@@ -31,6 +31,7 @@ Insanelyi
 Stratfor  
 
 2. python accountchecker.py -p root  
+
 root: Your password was found in the repository 11097 times  
 
 
