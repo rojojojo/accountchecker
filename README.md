@@ -4,10 +4,10 @@ Python script to automate lookups on HaveIBeenPwned.com
 You can use this tool to look up a username or password & check if it has been breached. You can also provide a text file with a list of users (one user/account per line).  
 
 Dependencies:  
-requests library
+requests
 
 Install this library using the following command:  
-pip install requests  
+pip install -r requirements.txt  
 
 usage:  
 accountchecker.py [-h] [-u USERNAME] [-f FILENAME] [-p PASSWORD]
