@@ -9,7 +9,7 @@ requests library
 Install this library using the following command:
 pip install requests
 
-usage: 
+usage:  
 accountchecker.py [-h] [-u USERNAME] [-f FILENAME] [-p PASSWORD]
 
 -h, --help   show this help message and exit
