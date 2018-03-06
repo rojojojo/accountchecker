@@ -1,5 +1,5 @@
 #! python3
-# Author: Rohan
+# Author: rojojojo (Rohan)
 # accountchecker.py - Python script to automate lookups on HaveIBeenPwned.com
 
 import requests
